@@ -4,7 +4,6 @@
 <Category>Tools:Utilities</Category>
 <Date>2020-12-19</Date>
 <Changes>
-[b]3.APR.2020:[/b]Added[br]
 </Changes>
 <Support>http://forums.unraid.net</Support>
 <Name>EmbyGram</Name>
@@ -13,7 +12,7 @@ Get Telegram Notification for Emby
 </Description>
 <Registry></Registry>
 <GitHub></GitHub>
-<Repository>quay.io/galexrt/sinusbot:latest</Repository>
+<Repository></Repository>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
