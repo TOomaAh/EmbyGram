@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container>
+<Beta>False</Beta>
+<Category>Tools:Utilities</Category>
+<Date>2020-12-19</Date>
+<Changes>
+[b]3.APR.2020:[/b]Added[br]
+</Changes>
+<Support>http://forums.unraid.net</Support>
+<Name>EmbyGram</Name>
+<Description>
+Get Telegram Notification for Emby
+</Description>
+<Registry></Registry>
+<GitHub></GitHub>
+<Repository>quay.io/galexrt/sinusbot:latest</Repository>
+<BindTime>true</BindTime>
+<Privileged>false</Privileged>
+<Networking>
+</Networking>
+<Data>
+</Data>
+<API_KEY></API_KEY>
+<SERVER></SERVER>
+<USER_ID></USER_ID>
+<BOT_ID></BOT_ID>
+<ADMIN></ADMIN>
+<Icon>https://i.imgur.com/tm7CIll.png</Icon>
+</Container>
